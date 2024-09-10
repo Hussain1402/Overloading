@@ -17,12 +17,12 @@ class Addition
 int main()
 {
     Addition obj;
-    cout<<obj.Sum(20,15)<<endl;
-    cout<<obj.Sum(81,100,10);
+    cout<<obj.Sum(20,67)<<endl;
+    cout<<obj.Sum(91,180,7);
     return 0;
 }
 
 /*
-35
-191
+87
+278
 */
